@@ -1,0 +1,9 @@
+
+g	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8óŸäˆ2
+~
+java:S1488,"\Immediately return this expression instead of assigning it to the temporary variable "user".(Ë÷ ıÿÿÿÿ8ÊñÆˆ2
+X	java:S125Q"<This block of commented-out lines of code should be removed.(ÁïØ†8ØÔ²âˆ2
+{
+java:S2142f"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‰Ÿäˆ2
+K
+java:S1068%".Remove this unused "USER_FACE0" private field.(œğ¸8ÛñÆˆ2

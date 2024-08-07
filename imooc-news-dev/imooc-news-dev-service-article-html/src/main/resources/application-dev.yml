@@ -1,0 +1,15 @@
+server:
+  port: 8002
+
+spring:
+  redis:
+    database: 0
+    host: 127.0.0.1
+    port: 6379
+
+## setup CN from java, This is resource
+website:
+  domain-name: imoocnews.com
+
+
+

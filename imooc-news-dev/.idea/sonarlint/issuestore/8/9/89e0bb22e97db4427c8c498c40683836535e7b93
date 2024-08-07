@@ -1,0 +1,18 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+e
+java:S2095l"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(Ùüµã
+d
+java:S2095k"IUse try-with-resources or close this "InputStream" in a "finally" clause.(³‡îşüÿÿÿÿ
+d
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(ê·§Ü
+k
+java:S2095}"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¢ıŞËıÿÿÿÿ
+W	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ö‰çå
+=	java:S108n")Either remove or fill this block of code.(ôÍÏ

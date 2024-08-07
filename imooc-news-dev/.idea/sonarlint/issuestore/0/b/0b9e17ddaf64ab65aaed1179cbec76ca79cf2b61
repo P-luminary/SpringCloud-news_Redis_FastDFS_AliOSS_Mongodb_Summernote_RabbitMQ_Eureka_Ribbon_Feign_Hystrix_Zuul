@@ -1,0 +1,24 @@
+
+L
+java:S3740€"/Provide the parametrized type for this generic.(Á›îI8Š¹’2
+M
+java:S3740¼"/Provide the parametrized type for this generic.(ÿÙà8Š¹’2
+…
+java:S4165®"hRemove this useless assignment; "gridResult" already holds the assigned value along all execution paths.(êîÉg8¶Ô¼’2
+„
+java:S4165>"hRemove this useless assignment; "gridResult" already holds the assigned value along all execution paths.(êîÉg8¶Ô¼’2
+W
+java:S2387*":"restTemplate" is the name of a field in "BaseController".(„¤Ïƒ8ÚŠ¹’2
+g
+java:S1124$"EReorder the modifiers to comply with the Java Language Specification.(Ÿê¼üÿÿÿÿ8ÜŠ¹’2
+]	java:S125I"<This block of commented-out lines of code should be removed.(Üù‚ûÿÿÿÿ8ßŠ¹’2
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(â¤Ó½8àŠ¹’2
+Y	java:S125"<This block of commented-out lines of code should be removed.(ô¥Ù£8®»’2
+^	java:S125Š"<This block of commented-out lines of code should be removed.(Ñ½Ëûÿÿÿÿ8ãŠ¹’2
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(ÿø‡†şÿÿÿÿ8åŠ¹’2
+b
+java:S1128"ERemove this unused import 'com.imooc.article.service.ArticleService'.(­õÇ‰8ÓÔ¼’2
+j
+java:S1128"MRemove this unused import 'org.springframework.cloud.client.ServiceInstance'.(¡‡¨ã8ÓÔ¼’2
+f
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8ÓÔ¼’2

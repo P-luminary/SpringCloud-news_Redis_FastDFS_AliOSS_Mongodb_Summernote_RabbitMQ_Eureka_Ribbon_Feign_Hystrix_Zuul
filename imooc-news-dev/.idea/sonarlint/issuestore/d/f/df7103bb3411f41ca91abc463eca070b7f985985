@@ -1,0 +1,24 @@
+
+l
+java:S1192©"NDefine a constant instead of duplicating this literal "articleStatus" 6 times.(¦Áï˜8òñäÒ2
+^
+java:S4973J"<Strings and Boxed types should be compared using "equals()".(§‘Ò©øÿÿÿÿ8óñäÒ2
+Y
+java:S4973L"<Strings and Boxed types should be compared using "equals()".(ú¶›Š8õñäÒ2
+^
+java:S4973V"<Strings and Boxed types should be compared using "equals()".(§‘Ò©øÿÿÿÿ8æÇŠï2
+c
+java:S2259¥"EA "NullPointerException" could be thrown; "getBody" is nullable here.(ı¿€8ŠØ²Â2
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(‰Ş©ûÿÿÿÿ8”ÈŠï2
+]	java:S125`"<This block of commented-out lines of code should be removed.(óÜ˜÷ÿÿÿÿÿ8û¶’ï2
+f
+java:S1134_"DTake the required action to fix the issue indicated by this comment.(®ŞÔ«şÿÿÿÿ8”ÈŠï2
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(¹É•å8—ÈŠï2
+]	java:S125|"<This block of commented-out lines of code should be removed.(ø¾îÊÿÿÿÿÿ8ŒòäÒ2
+f
+java:S1134y"DTake the required action to fix the issue indicated by this comment.(ãÙ‘õûÿÿÿÿ8ŒòäÒ2
+r
+java:S3252¸"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¶—ìÖıÿÿÿÿ8òäÒ2
+r
+java:S3252â"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¶—ìÖıÿÿÿÿ8òäÒ2
+Y	java:S125"<This block of commented-out lines of code should be removed.(Ú…‚£8›Ø²Â2

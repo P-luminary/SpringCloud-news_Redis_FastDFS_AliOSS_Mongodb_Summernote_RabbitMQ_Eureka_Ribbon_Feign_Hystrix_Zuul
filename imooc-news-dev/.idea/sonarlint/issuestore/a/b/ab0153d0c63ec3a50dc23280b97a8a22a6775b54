@@ -1,0 +1,9 @@
+
+s
+java:S1845"QRename method "output" to prevent any misunderstanding/clash with field "OUTPUT".(şÄ³¹ùÿÿÿÿ8áÜÔ’2
+q
+java:S1845"ORename method "input" to prevent any misunderstanding/clash with field "INPUT".(ÓÊ€ßûÿÿÿÿ8áÜÔ’2
+n
+java:S1128"LRemove this unused import 'org.springframework.cloud.stream.messaging.Sink'.(”§Î×øÿÿÿÿ8® Ô’2
+k
+java:S1128"NRemove this unused import 'org.springframework.cloud.stream.messaging.Source'.(óıÏ“8® Ô’2

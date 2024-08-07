@@ -1,0 +1,23 @@
+
+w
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(Ëäó¯8—£´Œ2
+w
+java:S1488&"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(Ëäó¯8—£´Œ2
+X	java:S125"<This block of commented-out lines of code should be removed.(ŠÚ¨Ü8£´Œ2
+i
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(õøšÇ8 £´Œ2
+R
+java:S6353"5Use concise quantifier syntax '?' instead of '{0,1}'.(õøšÇ8 £´Œ2
+R
+java:S6353"5Use concise quantifier syntax '?' instead of '{0,1}'.(õøšÇ8 £´Œ2
+R
+java:S6353"5Use concise quantifier syntax '?' instead of '{0,1}'.(õøšÇ8¡£´Œ2
+]	java:S125"<This block of commented-out lines of code should be removed.(àé½€ıÿÿÿÿ8¡£´Œ2
+]	java:S125#"<This block of commented-out lines of code should be removed.(àé½€ıÿÿÿÿ8££´Œ2
+Y
+java:S1854+"7Remove this useless assignment to local variable "res".(¸—õıÿÿÿÿ8›‘´Œ2
+J
+java:S1481+"(Remove this unused "res" local variable.(¸—õıÿÿÿÿ8›‘´Œ2
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(Ôä‚¥8¤£´Œ2
+q
+java:S5843"TSimplify this regular expression to reduce its complexity from 40 to the 20 allowed.(õøšÇ8¤£´Œ2

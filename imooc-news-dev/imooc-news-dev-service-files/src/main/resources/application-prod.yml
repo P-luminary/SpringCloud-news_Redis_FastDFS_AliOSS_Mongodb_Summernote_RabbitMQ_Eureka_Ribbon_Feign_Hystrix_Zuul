@@ -1,0 +1,8 @@
+server:
+  port: 8004
+
+spring:
+  redis:
+    database: 0
+    host: 47.98.225.105
+    port: 6379

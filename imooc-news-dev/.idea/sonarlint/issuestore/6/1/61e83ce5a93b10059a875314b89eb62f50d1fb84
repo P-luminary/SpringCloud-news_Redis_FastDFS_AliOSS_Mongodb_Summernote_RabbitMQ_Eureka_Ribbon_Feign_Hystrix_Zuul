@@ -1,0 +1,31 @@
+
+Y
+java:S4973="<Strings and Boxed types should be compared using "equals()".(Ù›ÄÒ8Ïúïë2
+Y
+java:S4973A"<Strings and Boxed types should be compared using "equals()".(‹…ûÂ8Ïúïë2
+^
+java:S4973N"<Strings and Boxed types should be compared using "equals()".(›Ô¾¡ûÿÿÿÿ8Ïúïë2
+X
+java:S4973|"<Strings and Boxed types should be compared using "equals()".(Ş‡¡)8Ïúïë2
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¦¡ÔÄøÿÿÿÿ8Ğúïë2
+Z
+java:S4973ˆ"<Strings and Boxed types should be compared using "equals()".(õ³Á8Ğúïë2
+k
+java:S2259í"HA "NullPointerException" could be thrown; "bodyResult" is nullable here.(÷åâ“ıÿÿÿÿ8ëúïë2
+c
+java:S2259 "EA "NullPointerException" could be thrown; "getBody" is nullable here.(ı¿€8ëúïë2
+X
+java:S2387´":"restTemplate" is the name of a field in "BaseController".(„¤Ïƒ8ìúïë2
+b
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(ĞÖÿĞ8íúïë2
+X	java:S125W"<This block of commented-out lines of code should be removed.(«Şù©8ïúïë2
+^	java:S125‹"<This block of commented-out lines of code should be removed.(“ü½Ôşÿÿÿÿ8óúïë2
+Y	java:S125"<This block of commented-out lines of code should be removed.(²òûË8óúïë2
+Y	java:S125İ"<This block of commented-out lines of code should be removed.(«‚¤ó8øúïë2
+j
+java:S1128"MRemove this unused import 'com.imooc.api.controller.user.HelloControllerApi'.(ö¼üâ8ûúïë2
+[
+java:S1128!"9Remove this unused import 'org.springframework.ui.Model'.(ê†ıÿÿÿÿ8ûúïë2
+]
+java:S1144™":Remove this unused private "doDownloadArticleHTML" method.(ñ¤±ìüÿÿÿÿ8ûúïë2

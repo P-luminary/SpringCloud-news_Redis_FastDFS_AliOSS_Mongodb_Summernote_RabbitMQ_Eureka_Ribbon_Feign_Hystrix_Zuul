@@ -1,0 +1,5 @@
+
+[	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(—ûì²
+t
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ ¾îûÿÿÿÿ
+\	java:S899g"BDo something with the "boolean" value returned by "createNewFile".(ÊèÙµÿÿÿÿÿ

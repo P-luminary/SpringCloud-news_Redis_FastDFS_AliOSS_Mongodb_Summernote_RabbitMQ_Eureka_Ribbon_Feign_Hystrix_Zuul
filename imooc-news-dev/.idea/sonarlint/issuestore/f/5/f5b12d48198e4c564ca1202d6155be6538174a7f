@@ -1,0 +1,16 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(éÃ¾Õşÿÿÿÿ8àÒùÎ2
+Z
+java:S1128"=Remove this unused import 'com.github.pagehelper.PageHelper'.(ğ÷¨¹8óŠÏ2
+M
+java:S1128"0Remove this unused import 'com.imooc.pojo.Fans'.(ÒÁÒæ8óŠÏ2
+Y
+java:S1128
+"<Remove this unused import 'com.imooc.pojo.vo.RegionRatioVO'.(ôìÆù8ôŠÏ2
+Z
+java:S1128"=Remove this unused import 'com.imooc.user.mapper.FansMapper'.(Ü†›8ôŠÏ2
+Y
+java:S1128"<Remove this unused import 'com.imooc.utils.PagedGridResult'.(‡ğ‰8ôŠÏ2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ôŠÏ2

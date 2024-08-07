@@ -1,0 +1,9 @@
+
+z
+java:S1488b"]Immediately return this expression instead of assigning it to the temporary variable "count".(’¿ìè8»Á·Î2
+:
+java:S2386y"Make this member "protected".(È‘ƒ8”ÙïÎ2
+J
+java:S1125%"(Remove the unnecessary boolean literals.(ù©ì…ùÿÿÿÿ8ÃöµÎ2
+l
+java:S3252W"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Àå½œ8ÅöµÎ2

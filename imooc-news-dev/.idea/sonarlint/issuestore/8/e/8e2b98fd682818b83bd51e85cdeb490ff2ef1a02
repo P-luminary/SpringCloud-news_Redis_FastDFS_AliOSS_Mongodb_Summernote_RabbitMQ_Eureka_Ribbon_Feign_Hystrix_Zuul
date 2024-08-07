@@ -1,0 +1,10 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¶¶ÏÁùÿÿÿÿ8Ø¿ıù1
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ÇÌû°øÿÿÿÿ
+c
+java:S3457+"AFormat specifiers should be used instead of string concatenation.(è‰Ö‘ıÿÿÿÿ8Ú¿ıù1
+^
+java:S3457."AFormat specifiers should be used instead of string concatenation.(ïÔ•¡8Û¿ıù1
+c
+java:S34571"AFormat specifiers should be used instead of string concatenation.(³‡¡âûÿÿÿÿ8Û¿ıù1

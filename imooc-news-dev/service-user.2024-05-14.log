@@ -1,0 +1,594 @@
+2024-05-14 00:28:34.672 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 2980 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 00:28:34.674 [main] INFO  com.imooc.user.Application - No active profile set, falling back to default profiles: default
+2024-05-14 00:28:35.156 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 00:28:35.162 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 00:28:35.162 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 00:28:35.164 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 00:28:35.165 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 00:28:35.165 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 00:28:35.165 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 00:28:35.167 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 00:28:35.214 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 00:28:35.214 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 480 ms
+2024-05-14 00:28:35.312 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:28:35.381 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 00:28:35.394 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 00:28:35.396 [main] INFO  com.imooc.user.Application - Started Application in 1.016 seconds (JVM running for 1.53)
+2024-05-14 00:28:43.708 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:28:46.975 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 41448 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 00:28:46.977 [main] INFO  com.imooc.user.Application - No active profile set, falling back to default profiles: default
+2024-05-14 00:28:47.454 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 00:28:47.458 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 00:28:47.458 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 00:28:47.459 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 00:28:47.459 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 00:28:47.459 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 00:28:47.459 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 00:28:47.461 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 00:28:47.500 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 00:28:47.500 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 458 ms
+2024-05-14 00:28:47.599 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:28:47.674 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 00:28:47.686 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 00:28:47.688 [main] INFO  com.imooc.user.Application - Started Application in 0.967 seconds (JVM running for 1.432)
+2024-05-14 00:28:56.736 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:29:21.621 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 32792 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 00:29:21.623 [main] INFO  com.imooc.user.Application - No active profile set, falling back to default profiles: default
+2024-05-14 00:29:22.111 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 00:29:22.116 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 00:29:22.117 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 00:29:22.117 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 00:29:22.118 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 00:29:22.118 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 00:29:22.118 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 00:29:22.120 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 00:29:22.162 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 00:29:22.162 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 486 ms
+2024-05-14 00:29:22.255 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:29:22.354 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 00:29:22.370 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 00:29:22.373 [main] INFO  com.imooc.user.Application - Started Application in 1.061 seconds (JVM running for 1.543)
+2024-05-14 00:29:40.693 [http-nio-8003-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-14 00:29:40.694 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-14 00:29:40.696 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-05-14 00:29:40.707 [http-nio-8003-exec-1] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 00:29:40.707 [http-nio-8003-exec-1] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 00:29:40.707 [http-nio-8003-exec-1] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 00:33:56.880 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:33:58.903 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 51180 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 00:33:58.906 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 00:33:59.436 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 00:33:59.442 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 00:33:59.443 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 00:33:59.443 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 00:33:59.444 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 00:33:59.444 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 00:33:59.444 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 00:33:59.446 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 00:33:59.494 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 00:33:59.494 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 518 ms
+2024-05-14 00:33:59.596 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:33:59.678 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 00:33:59.692 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 00:33:59.693 [main] INFO  com.imooc.user.Application - Started Application in 1.081 seconds (JVM running for 1.581)
+2024-05-14 00:35:50.828 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:35:52.722 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 39384 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 00:35:52.724 [main] INFO  com.imooc.user.Application - The following profiles are active: prod
+2024-05-14 00:35:53.189 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8130 (http)
+2024-05-14 00:35:53.193 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8130"]
+2024-05-14 00:35:53.194 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 00:35:53.194 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 00:35:53.195 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 00:35:53.195 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 00:35:53.195 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 00:35:53.197 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 00:35:53.241 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 00:35:53.241 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 483 ms
+2024-05-14 00:35:53.335 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:35:53.401 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8130"]
+2024-05-14 00:35:53.413 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8130 (http) with context path ''
+2024-05-14 00:35:53.415 [main] INFO  com.imooc.user.Application - Started Application in 0.951 seconds (JVM running for 1.428)
+2024-05-14 00:35:59.688 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:36:01.623 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 44892 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 00:36:01.625 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 00:36:02.110 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 00:36:02.115 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 00:36:02.115 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 00:36:02.116 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 00:36:02.116 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 00:36:02.117 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 00:36:02.117 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 00:36:02.119 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 00:36:02.159 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 00:36:02.159 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 462 ms
+2024-05-14 00:36:02.249 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 00:36:02.324 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 00:36:02.338 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 00:36:02.340 [main] INFO  com.imooc.user.Application - Started Application in 0.989 seconds (JVM running for 1.47)
+2024-05-14 00:40:03.257 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 08:28:55.617 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 34204 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 08:28:55.619 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 08:28:56.494 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 08:28:56.512 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 08:28:56.513 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 08:28:56.515 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 08:28:56.518 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 08:28:56.519 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 08:28:56.520 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 08:28:56.537 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 08:28:56.616 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 08:28:56.616 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 926 ms
+2024-05-14 08:28:56.827 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 08:28:57.003 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 08:28:57.038 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 08:28:57.044 [main] INFO  com.imooc.user.Application - Started Application in 1.876 seconds (JVM running for 2.55)
+2024-05-14 08:30:10.702 [http-nio-8003-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-14 08:30:10.702 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-14 08:30:10.708 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2024-05-14 08:30:10.731 [http-nio-8003-exec-1] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 08:30:10.731 [http-nio-8003-exec-1] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 08:30:10.732 [http-nio-8003-exec-1] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 08:32:02.370 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 08:32:07.474 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 32644 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 08:32:07.488 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 08:32:08.237 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 08:32:08.246 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 08:32:08.246 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 08:32:08.246 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 08:32:08.247 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 08:32:08.247 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 08:32:08.247 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 08:32:08.251 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 08:32:08.319 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 08:32:08.319 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 765 ms
+2024-05-14 08:32:08.470 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 08:32:08.602 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 08:32:08.620 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 08:32:08.624 [main] INFO  com.imooc.user.Application - Started Application in 1.554 seconds (JVM running for 2.324)
+2024-05-14 08:32:08.666 [http-nio-8003-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-14 08:32:08.666 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-14 08:32:08.671 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2024-05-14 08:32:08.694 [http-nio-8003-exec-1] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 08:32:08.695 [http-nio-8003-exec-1] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 08:32:08.695 [http-nio-8003-exec-1] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 08:37:48.682 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 08:37:54.187 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 50472 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 08:37:54.190 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 08:37:55.038 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 08:37:55.046 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 08:37:55.047 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 08:37:55.047 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 08:37:55.048 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 08:37:55.048 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 08:37:55.048 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 08:37:55.052 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 08:37:55.124 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 08:37:55.124 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 849 ms
+2024-05-14 08:37:55.282 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 08:37:55.417 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 08:37:55.435 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 08:37:55.438 [main] INFO  com.imooc.user.Application - Started Application in 1.702 seconds (JVM running for 2.573)
+2024-05-14 08:37:56.433 [http-nio-8003-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-14 08:37:56.433 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-14 08:37:56.438 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2024-05-14 08:37:56.455 [http-nio-8003-exec-1] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 08:37:56.456 [http-nio-8003-exec-1] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 08:37:56.456 [http-nio-8003-exec-1] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 08:42:25.987 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 08:42:31.125 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 47748 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 08:42:31.140 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 08:42:31.919 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 08:42:31.928 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 08:42:31.928 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 08:42:31.928 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 08:42:31.930 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 08:42:31.930 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 08:42:31.930 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 08:42:31.933 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 08:42:32.010 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 08:42:32.010 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 806 ms
+2024-05-14 08:42:32.199 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 08:42:32.330 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 08:42:32.353 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 08:42:32.358 [main] INFO  com.imooc.user.Application - Started Application in 1.651 seconds (JVM running for 2.436)
+2024-05-14 08:42:36.015 [http-nio-8003-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-14 08:42:36.015 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-14 08:42:36.020 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2024-05-14 08:42:36.038 [http-nio-8003-exec-1] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 08:42:36.038 [http-nio-8003-exec-1] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 08:42:36.038 [http-nio-8003-exec-1] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 08:51:54.646 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 19:32:10.584 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 21480 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 19:32:10.585 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 19:32:10.639 [background-preinit] WARN  o.s.h.c.j.Jackson2ObjectMapperBuilder - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2024-05-14 19:32:11.096 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imooc.user]' package. Please check your configuration.
+2024-05-14 19:32:11.320 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 19:32:11.325 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 19:32:11.325 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 19:32:11.326 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 19:32:11.326 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 19:32:11.326 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 19:32:11.326 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 19:32:11.328 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 19:32:11.387 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 19:32:11.387 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 741 ms
+2024-05-14 19:32:11.463 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'appUserMapper' defined in file [C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes\com\imooc\user\mapper\AppUserMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [tk/mybatis/mapper/autoconfigure/MapperAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+2024-05-14 19:32:11.465 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-05-14 19:32:11.475 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-05-14 19:32:11.482 [main] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'appUserMapper' defined in file [C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes\com\imooc\user\mapper\AppUserMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [tk/mybatis/mapper/autoconfigure/MapperAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1526)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1406)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:860)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.imooc.user.Application.main(Application.java:13)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [tk/mybatis/mapper/autoconfigure/MapperAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1511)
+	... 17 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:656)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:636)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 30 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:651)
+	... 44 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceBuilder.bind(DruidDataSourceBuilder.java:48)
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceBuilder.build(DruidDataSourceBuilder.java:41)
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource(DruidDataSourceAutoConfigure.java:44)
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$a9b02d08.CGLIB$dataSource$0(<generated>)
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$a9b02d08$$FastClassBySpringCGLIB$$115e9f6c.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$a9b02d08.dataSource(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 45 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.boot.bind.RelaxedDataBinder
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 58 common frames omitted
+2024-05-14 19:37:01.908 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 21400 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 19:37:01.909 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 19:37:01.977 [background-preinit] WARN  o.s.h.c.j.Jackson2ObjectMapperBuilder - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2024-05-14 19:37:02.449 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imooc.user]' package. Please check your configuration.
+2024-05-14 19:37:02.689 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 19:37:02.695 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 19:37:02.695 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 19:37:02.696 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 19:37:02.696 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 19:37:02.697 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 19:37:02.697 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 19:37:02.699 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 19:37:02.762 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 19:37:02.762 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 796 ms
+2024-05-14 19:37:02.857 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'appUserMapper' defined in file [C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes\com\imooc\user\mapper\AppUserMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [tk/mybatis/mapper/autoconfigure/MapperAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+2024-05-14 19:37:02.859 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-05-14 19:37:02.871 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-05-14 19:37:02.879 [main] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'appUserMapper' defined in file [C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes\com\imooc\user\mapper\AppUserMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [tk/mybatis/mapper/autoconfigure/MapperAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1526)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1406)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:860)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.imooc.user.Application.main(Application.java:13)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [tk/mybatis/mapper/autoconfigure/MapperAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1511)
+	... 17 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:656)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:636)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1287)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1207)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 30 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:651)
+	... 44 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceBuilder.bind(DruidDataSourceBuilder.java:48)
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceBuilder.build(DruidDataSourceBuilder.java:41)
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource(DruidDataSourceAutoConfigure.java:44)
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$8c5cea98.CGLIB$dataSource$0(<generated>)
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$8c5cea98$$FastClassBySpringCGLIB$$d22fe7e0.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure$$EnhancerBySpringCGLIB$$8c5cea98.dataSource(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 45 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.boot.bind.RelaxedDataBinder
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 58 common frames omitted
+2024-05-14 19:47:35.942 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 54304 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 19:47:35.943 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 19:47:36.001 [background-preinit] WARN  o.s.h.c.j.Jackson2ObjectMapperBuilder - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2024-05-14 19:47:36.408 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-05-14 19:47:36.422 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 MongoDB repository interfaces.
+2024-05-14 19:47:36.478 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imooc.user]' package. Please check your configuration.
+2024-05-14 19:47:36.726 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 19:47:36.731 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 19:47:36.732 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 19:47:36.732 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 19:47:36.732 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 19:47:36.732 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 19:47:36.732 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 19:47:36.735 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 19:47:36.795 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 19:47:36.797 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 802 ms
+2024-05-14 19:47:37.187 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 19:47:37.240 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2024-05-14 19:47:37.241 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2024-05-14 19:47:37.241 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2024-05-14 19:47:37.241 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2024-05-14 19:47:37.351 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2024-05-14 19:47:37.515 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 19:47:37.527 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 19:47:37.528 [main] INFO  com.imooc.user.Application - Started Application in 1.906 seconds (JVM running for 2.467)
+2024-05-14 19:47:39.398 [cluster-ClusterId{value='66434f59b4db915f5c61ba0f', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Exception in monitor thread while connecting to server localhost:27017
+com.mongodb.MongoSocketOpenException: Exception opening socket
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:70)
+	at com.mongodb.internal.connection.InternalStreamConnection.open(InternalStreamConnection.java:128)
+	at com.mongodb.internal.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:117)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mongodb.internal.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:64)
+	at com.mongodb.internal.connection.SocketStream.initializeSocket(SocketStream.java:79)
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:65)
+	... 3 common frames omitted
+2024-05-14 19:48:00.807 [SpringContextShutdownHook] INFO  o.s.j.e.a.AnnotationMBeanExporter - Could not unregister MBean [com.github.tobato.fastdfs.domain.conn:name=fdfsConnectionPool,type=FdfsConnectionPool] as said MBean is not registered (perhaps already unregistered by an external process)
+2024-05-14 19:48:00.808 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 19:48:02.972 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 45356 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 19:48:02.973 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 19:48:03.024 [background-preinit] WARN  o.s.h.c.j.Jackson2ObjectMapperBuilder - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2024-05-14 19:48:03.427 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-05-14 19:48:03.439 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9ms. Found 0 MongoDB repository interfaces.
+2024-05-14 19:48:03.500 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imooc.user]' package. Please check your configuration.
+2024-05-14 19:48:03.737 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 19:48:03.742 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 19:48:03.743 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 19:48:03.743 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 19:48:03.744 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 19:48:03.744 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 19:48:03.744 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 19:48:03.746 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 19:48:03.801 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 19:48:03.801 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 780 ms
+2024-05-14 19:48:04.152 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 19:48:04.215 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2024-05-14 19:48:04.215 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2024-05-14 19:48:04.216 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2024-05-14 19:48:04.216 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2024-05-14 19:48:04.330 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2024-05-14 19:48:04.480 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 19:48:04.494 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 19:48:04.496 [main] INFO  com.imooc.user.Application - Started Application in 1.884 seconds (JVM running for 2.459)
+2024-05-14 19:48:06.379 [cluster-ClusterId{value='66434f748a36d84fac5baa2f', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Exception in monitor thread while connecting to server localhost:27017
+com.mongodb.MongoSocketOpenException: Exception opening socket
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:70)
+	at com.mongodb.internal.connection.InternalStreamConnection.open(InternalStreamConnection.java:128)
+	at com.mongodb.internal.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:117)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mongodb.internal.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:64)
+	at com.mongodb.internal.connection.SocketStream.initializeSocket(SocketStream.java:79)
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:65)
+	... 3 common frames omitted
+2024-05-14 19:52:26.846 [SpringContextShutdownHook] INFO  o.s.j.e.a.AnnotationMBeanExporter - Could not unregister MBean [com.github.tobato.fastdfs.domain.conn:name=fdfsConnectionPool,type=FdfsConnectionPool] as said MBean is not registered (perhaps already unregistered by an external process)
+2024-05-14 19:52:26.847 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 19:52:30.314 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 18760 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 19:52:30.315 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 19:52:30.393 [background-preinit] WARN  o.s.h.c.j.Jackson2ObjectMapperBuilder - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2024-05-14 19:52:30.744 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-05-14 19:52:30.756 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9ms. Found 0 MongoDB repository interfaces.
+2024-05-14 19:52:30.813 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imooc.user]' package. Please check your configuration.
+2024-05-14 19:52:31.044 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 19:52:31.049 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 19:52:31.050 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 19:52:31.050 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 19:52:31.051 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 19:52:31.051 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 19:52:31.051 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 19:52:31.053 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 19:52:31.110 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 19:52:31.110 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 725 ms
+2024-05-14 19:52:31.505 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 19:52:31.560 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2024-05-14 19:52:31.560 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2024-05-14 19:52:31.560 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2024-05-14 19:52:31.560 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2024-05-14 19:52:31.683 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 19:52:31.696 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 19:52:31.697 [main] INFO  com.imooc.user.Application - Started Application in 1.722 seconds (JVM running for 2.274)
+2024-05-14 20:16:04.939 [SpringContextShutdownHook] INFO  o.s.j.e.a.AnnotationMBeanExporter - Could not unregister MBean [com.github.tobato.fastdfs.domain.conn:name=fdfsConnectionPool,type=FdfsConnectionPool] as said MBean is not registered (perhaps already unregistered by an external process)
+2024-05-14 20:16:04.940 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 20:16:09.701 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 57180 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 20:16:09.701 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 20:16:09.767 [background-preinit] WARN  o.s.h.c.j.Jackson2ObjectMapperBuilder - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2024-05-14 20:16:10.251 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-05-14 20:16:10.263 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9ms. Found 0 MongoDB repository interfaces.
+2024-05-14 20:16:10.340 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imooc.user]' package. Please check your configuration.
+2024-05-14 20:16:10.623 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 20:16:10.629 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 20:16:10.629 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 20:16:10.629 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 20:16:10.630 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 20:16:10.630 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 20:16:10.631 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 20:16:10.633 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 20:16:10.690 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 20:16:10.690 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 932 ms
+2024-05-14 20:16:11.236 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 20:16:11.293 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2024-05-14 20:16:11.294 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2024-05-14 20:16:11.294 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2024-05-14 20:16:11.294 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2024-05-14 20:16:11.411 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2024-05-14 20:16:11.420 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2024-05-14 20:16:11.425 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2024-05-14 20:16:11.481 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 20:16:11.495 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 20:16:11.497 [main] INFO  com.imooc.user.Application - Started Application in 2.147 seconds (JVM running for 2.682)
+2024-05-14 20:16:44.884 [http-nio-8003-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-14 20:16:44.884 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-14 20:16:44.888 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2024-05-14 20:20:25.701 [http-nio-8003-exec-5] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 20:20:25.701 [http-nio-8003-exec-5] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 20:20:25.701 [http-nio-8003-exec-5] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 20:21:09.448 [http-nio-8003-exec-10] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 20:21:09.448 [http-nio-8003-exec-10] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 20:21:09.448 [http-nio-8003-exec-10] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 20:21:09.781 [http-nio-8003-exec-3] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 20:21:09.781 [http-nio-8003-exec-3] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 20:21:09.781 [http-nio-8003-exec-3] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 20:21:23.543 [http-nio-8003-exec-1] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 20:21:23.543 [http-nio-8003-exec-1] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 20:21:23.543 [http-nio-8003-exec-1] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 20:22:01.452 [http-nio-8003-exec-8] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 20:22:01.452 [http-nio-8003-exec-8] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 20:22:01.452 [http-nio-8003-exec-8] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 20:24:08.346 [SpringContextShutdownHook] INFO  o.s.j.e.a.AnnotationMBeanExporter - Could not unregister MBean [com.github.tobato.fastdfs.domain.conn:name=fdfsConnectionPool,type=FdfsConnectionPool] as said MBean is not registered (perhaps already unregistered by an external process)
+2024-05-14 20:24:08.346 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-14 20:24:11.966 [main] INFO  com.imooc.user.Application - Starting Application on Pluminary with PID 40604 (C:\Users\Pluminary\Desktop\imooc-news-dev\imooc-news-dev-service-user\target\classes started by Pluminary in C:\Users\Pluminary\Desktop\imooc-news-dev)
+2024-05-14 20:24:11.967 [main] INFO  com.imooc.user.Application - The following profiles are active: dev
+2024-05-14 20:24:12.032 [background-preinit] WARN  o.s.h.c.j.Jackson2ObjectMapperBuilder - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2024-05-14 20:24:12.541 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-05-14 20:24:12.554 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10ms. Found 0 MongoDB repository interfaces.
+2024-05-14 20:24:12.626 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imooc.user]' package. Please check your configuration.
+2024-05-14 20:24:12.887 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2024-05-14 20:24:12.894 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2024-05-14 20:24:12.894 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-14 20:24:12.894 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2024-05-14 20:24:12.895 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2024-05-14 20:24:12.895 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-05-14 20:24:12.895 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-05-14 20:24:12.898 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2024-05-14 20:24:12.955 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-14 20:24:12.955 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 927 ms
+2024-05-14 20:24:13.485 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2024-05-14 20:24:13.542 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2024-05-14 20:24:13.542 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2024-05-14 20:24:13.543 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2024-05-14 20:24:13.543 [main] INFO  t.m.m.a.MapperCacheDisabler - Clear EntityHelper entityTableMap cache.
+2024-05-14 20:24:13.651 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2024-05-14 20:24:13.659 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2024-05-14 20:24:13.665 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2024-05-14 20:24:13.719 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2024-05-14 20:24:13.734 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2024-05-14 20:24:13.736 [main] INFO  com.imooc.user.Application - Started Application in 2.173 seconds (JVM running for 2.716)
+2024-05-14 20:24:17.103 [http-nio-8003-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-14 20:24:17.103 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-14 20:24:17.106 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2024-05-14 20:24:22.385 [http-nio-8003-exec-7] INFO  c.i.user.controller.HelloController - info: hello~
+2024-05-14 20:24:22.385 [http-nio-8003-exec-7] WARN  c.i.user.controller.HelloController - warn: hello~
+2024-05-14 20:24:22.385 [http-nio-8003-exec-7] ERROR c.i.user.controller.HelloController - error: hello~
+2024-05-14 20:25:51.396 [SpringContextShutdownHook] INFO  o.s.j.e.a.AnnotationMBeanExporter - Could not unregister MBean [com.github.tobato.fastdfs.domain.conn:name=fdfsConnectionPool,type=FdfsConnectionPool] as said MBean is not registered (perhaps already unregistered by an external process)
+2024-05-14 20:25:51.397 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

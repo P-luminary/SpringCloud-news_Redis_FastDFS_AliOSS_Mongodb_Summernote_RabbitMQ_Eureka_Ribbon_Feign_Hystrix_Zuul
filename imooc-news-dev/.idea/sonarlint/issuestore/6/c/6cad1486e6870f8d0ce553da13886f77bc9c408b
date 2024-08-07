@@ -1,0 +1,12 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(à½¾çıÿÿÿÿ8ŒÙ‰Á2
+\	java:S899:";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8Ù‰Á2
+p
+java:S4042:"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8Ù‰Á2
+j
+java:S1128"MRemove this unused import 'com.imooc.api.controller.user.HelloControllerApi'.(ö¼üâ8×‰áÁ2
+`
+java:S1128"CRemove this unused import 'com.imooc.grace.result.GraceJSONResult'.(¶ø‰Ï8×‰áÁ2
+X
+java:S1128"6Remove this unused import 'com.mongodb.gridfs.GridFS'.(…Îã°ıÿÿÿÿ8Ø‰áÁ2

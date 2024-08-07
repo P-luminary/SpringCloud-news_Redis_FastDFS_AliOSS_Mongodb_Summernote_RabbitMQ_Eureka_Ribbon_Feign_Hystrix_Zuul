@@ -1,0 +1,12 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ƒà“ùÿÿÿÿ8âá£ÚŠ2
+h
+java:S1128"FRemove this unused import 'com.imooc.grace.result.ResponseStatusEnum'.(Ê£€Äúÿÿÿÿ8ãá£ÚŠ2
+\
+java:S1128":Remove this unused import 'com.imooc.utils.RedisOperator'.(•‰÷»ûÿÿÿÿ8ãá£ÚŠ2
+u
+java:S1128	"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ãá£ÚŠ2
+l
+java:S1128
+"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8ãá£ÚŠ2

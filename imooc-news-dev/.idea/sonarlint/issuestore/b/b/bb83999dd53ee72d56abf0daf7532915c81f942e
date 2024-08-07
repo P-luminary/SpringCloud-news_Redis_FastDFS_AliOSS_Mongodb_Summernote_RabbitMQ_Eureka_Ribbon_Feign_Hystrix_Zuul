@@ -1,0 +1,21 @@
+
+u
+java:S1488¦"^Immediately return this expression instead of assigning it to the temporary variable "result".( ‡ƒ
+`
+java:S2259$"DA "NullPointerException" could be thrown; "hasKey" is nullable here.(òè8éÌÎø1
+i
+java:S2259ì"FA "NullPointerException" could be thrown; "leftPush" is nullable here.(¯‚áÈıÿÿÿÿ8éÌÎø1
+d
+java:S2259L"GA "NullPointerException" could be thrown; "decrement" is nullable here.(»”Ù8éÌÎø1
+j
+java:S2259"GA "NullPointerException" could be thrown; "rightPush" is nullable here.(¦èÏùÿÿÿÿ8êÌÎø1
+i
+java:S2259."GA "NullPointerException" could be thrown; "getExpire" is nullable here.(¸ÎÆşÿÿÿÿ8êÌÎø1
+d
+java:S2259B"GA "NullPointerException" could be thrown; "increment" is nullable here.(”ÈÊå8éÌÎø1
+G
+java:S1905")Remove this unnecessary cast to "String".(óƒ«8óÌÎø1
+G
+java:S1905ö")Remove this unnecessary cast to "String".(ºÂİ8úÌÎø1
+S
+java:S1128"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—8ûÌÎø1

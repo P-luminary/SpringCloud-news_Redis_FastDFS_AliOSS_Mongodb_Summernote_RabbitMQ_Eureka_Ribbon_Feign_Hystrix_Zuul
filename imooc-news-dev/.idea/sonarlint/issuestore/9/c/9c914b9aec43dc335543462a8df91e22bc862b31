@@ -1,0 +1,12 @@
+
+g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æÊ…Í2
+g	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8çÊ…Í2
+L
+java:S3740x"/Provide the parametrized type for this generic.(È´•8–Ááô2
+j
+java:S2259"HA "NullPointerException" could be thrown; "bodyResult" is nullable here.(÷åâ“ıÿÿÿÿ8Ââô2
+w	java:S116."VRename this field "DOMAIN_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—×øĞùÿÿÿÿ8íÊ…Í2
+]	java:S125Q"<This block of commented-out lines of code should be removed.(ËäÈÿÿÿÿÿ8òÊ…Í2
+J
+java:S1172[".Remove this unused method parameter "request".(²¹Âx8òÊ…Í2
+X	java:S125b"<This block of commented-out lines of code should be removed.(¹ôÀ˜8óÊ…Í2

@@ -1,0 +1,7 @@
+
+O
+java:S35166"9Refactor this method to not always return the same value.(“’è¨
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ûÏ‡Âüÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(íï¡¾ùÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ÑÔž°úÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(Û›†€úÿÿÿÿ

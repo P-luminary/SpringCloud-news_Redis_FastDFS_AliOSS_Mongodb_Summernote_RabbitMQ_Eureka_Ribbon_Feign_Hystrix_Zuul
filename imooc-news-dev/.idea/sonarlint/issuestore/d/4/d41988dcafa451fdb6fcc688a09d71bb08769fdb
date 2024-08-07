@@ -1,0 +1,42 @@
+
+n
+java:S1192."LDefine a constant instead of duplicating this literal "publishTime" 3 times.(å„¹àÿÿÿÿÿ8‹Š¬í2
+~
+java:S1488M"\Immediately return this expression instead of assigning it to the temporary variable "list".(šÌğúÿÿÿÿ8ŒŠ¬í2
+q
+java:S3252B"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¶—ìÖıÿÿÿÿ8ó¬§2
+Y
+java:S1854J"<Remove this useless assignment to local variable "criteria".(œŞ8™Š¬í2
+J
+java:S1481J"-Remove this unused "criteria" local variable.(œŞ8™Š¬í2
+l
+java:S3252L"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼×Ÿú8ø¬§2
+q
+java:S3252\"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¶—ìÖıÿÿÿÿ8û¬§2
+l
+java:S3252m"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼×Ÿú8ş¬§2
+k
+java:S1128"IRemove this unused import 'com.imooc.article.mapper.ArticleMapperCustom'.(ñË…Çùÿÿÿÿ8Øúš2
+b
+java:S1128"ERemove this unused import 'com.imooc.article.service.ArticleService'.(­õÇ‰8Øúš2
+\
+java:S1128	"?Remove this unused import 'com.imooc.enums.ArticleAppointType'.(‡–şÀ8Øúš2
+a
+java:S1128
+"?Remove this unused import 'com.imooc.enums.ArticleReviewLevel'.(Í£×±şÿÿÿÿ8Øúš2
+a
+java:S1128"?Remove this unused import 'com.imooc.exception.GraceException'.(™Á–øÿÿÿÿ8Øúš2
+h
+java:S1128"FRemove this unused import 'com.imooc.grace.result.ResponseStatusEnum'.(Ê£€Äúÿÿÿÿ8Øúš2
+Q
+java:S1128"4Remove this unused import 'com.imooc.pojo.Category'.(á©Ü8Øúš2
+]
+java:S1128";Remove this unused import 'com.imooc.pojo.bo.NewArticleBO'.(åü«üÿÿÿÿ8Øúš2
+h
+java:S1128"FRemove this unused import 'com.imooc.utils.extend.AliTextReviewUtils'.(ï‰±áşÿÿÿÿ8Øúš2
+N
+java:S1128"1Remove this unused import 'org.n3r.idworker.Sid'.(¿·ûÔ8Øúš2
+w
+java:S1128"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ8Øúš2
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Øúš2
